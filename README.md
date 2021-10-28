@@ -22,6 +22,15 @@
 - Collect more data.
 - Fine tune model find best param.
 - Expand model predict like fake news, prediction true false.
+## References
+@misc{li2020mmcovid,
+  title={MM-COVID: A Multilingual and Multimodal Data Repository for Combating COVID-19 Disinformation}, 
+  author={Yichuan Li and Bohan Jiang and Kai Shu and Huan Liu},
+  year={2020},
+  eprint={2011.04088},
+  archivePrefix={arXiv},
+  primaryClass={cs.SI}}
+
 
 
 
